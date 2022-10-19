@@ -9,3 +9,5 @@ public class DemoTestNG {
 		Reporter.log("welcome", true);
 	}
 }
+
+// this is the test stastement
