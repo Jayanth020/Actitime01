@@ -10,4 +10,5 @@ public class DemoTestNG {
 	}
 }
 
-// this is the test stastement
+// this is the test statement
+// yes i have checked but you made the spelling mistake
